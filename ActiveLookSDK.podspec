@@ -15,10 +15,10 @@ This CocoaPod provides the ability to connect to ActiveLook eyewear running
 a firmware >= 4.0.0  and send various commands
                        DESC
 
-  s.homepage         = 'https://github.com/ActiveLook/ios-sdk'
+  s.homepage         = 'https://github.com/UmarMVP/ios-sdk.git'
   s.license          = { :type => 'Apache', :file => 'LICENSE' }
   s.author           = { "Sylvain Romillon" => "sylvain.romillon@microoled.net" }
-  s.source           = { :git => 'https://github.com/ActiveLook/ios-sdk.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/UmarMVP/ios-sdk.git', :tag => s.version.to_s }
   s.source_files     = 'Sources/**/*'
   s.swift_version    = '5.0'
 
